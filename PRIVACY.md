@@ -133,7 +133,7 @@ Under the EU General Data Protection Regulation (GDPR), we process your data bas
 
 It's important to note that our "zero-storage" approach means that data processing is minimal, temporary, and limited to what is strictly necessary to provide the service.
 
-**Consent Revocation for EU users**:
+**Consent Revocation**:
 You have the right to withdraw your consent to the collection and use of your personal data at any time.
 
 If you wish to revoke your consent:
