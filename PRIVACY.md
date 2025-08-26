@@ -133,6 +133,21 @@ Under the EU General Data Protection Regulation (GDPR), we process your data bas
 
 It's important to note that our "zero-storage" approach means that data processing is minimal, temporary, and limited to what is strictly necessary to provide the service.
 
+Consent Revocation for EU users
+You have the right to withdraw your consent to the collection and use of your personal data at any time.
+
+If you wish to revoke your consent:
+Send an email to tmdevsubscriptions@gmail.com with subject Revoke NutriScan Consent.
+
+Once we receive your request, we will:
+Remove your account information from Firebase Firestore.
+Delete any linked Google Sign-In data associated with your account.
+Ensure that logs or reports from Crashlytics are anonymized or deleted where possible.
+Stop processing your data with Gemini API for AI-based analysis.
+Cancel any active Play Store subscriptions upon request (in line with Play policies).
+
+We will confirm back to you once your data has been deleted or anonymized, typically within 30 days of your request.
+
 ## Supervisory Authority (EU)
 If you are located in the European Union and believe we are processing your data unlawfully, you have the right to lodge a complaint with your local data protection supervisory authority. However, we encourage you to contact us first to discuss your concerns, as our zero-storage approach for NutriScan means that most traditional data privacy concerns are significantly reduced.
 
