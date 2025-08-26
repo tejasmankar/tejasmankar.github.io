@@ -1,5 +1,5 @@
 # Privacy Policy for NutriScan
-Last Updated: May 19, 2025
+Last Updated: August 26, 2025
 
 ## Introduction
 This Privacy Policy explains how NutriScan ("App") uses your device's camera and handles any related data. We are committed to protecting your privacy and being transparent about our practices.
